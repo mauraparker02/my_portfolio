@@ -1,10 +1,10 @@
 import React from "react";
 import { SideNav, SideNavItem, Icon, Button} from 'react-materialize';
-
+import "./style.css"
 
 function Navbar(props) {
     return (
-        <div>
+        <div className="navbar">
   <style>
     {`
             #root > div > div {
