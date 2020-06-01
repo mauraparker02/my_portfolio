@@ -20,19 +20,19 @@ function Navbar(props) {
     trigger={<Button node="button">=</Button>}
   >
     <SideNavItem
-      href="#!portfolio"
+      href="/about"
       waves
     >
-      About  
+      About 
     </SideNavItem>
     <SideNavItem
-      href="#!about"
+      href="/portfolio"
       waves
     >
-      Portfolio
+      Portfolio 
     </SideNavItem>
     <SideNavItem
-      href="#!about"
+      href="#contact"
       waves
     >
       Contact 

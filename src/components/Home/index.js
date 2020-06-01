@@ -14,6 +14,7 @@ function Home (props){
         m={12}
         s={6}
       >
+    
     <img src="/imgs/me.jpg" alt="not working" width= "50%" height="auto" className="portrait"></img>
       </Col>
       <Col

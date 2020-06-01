@@ -11,6 +11,7 @@ function Form (props){
         <CardPanel className="white">
           <span className="black-text">
             <h5>Contact</h5>
+            <a name="Contact"></a>
             <input type="text" id="fname" placeholder="Your name.."/>
             <label for="subject">Subject</label>
             <textarea id="subject" name="subject" placeholder="Write something..">
